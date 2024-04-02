@@ -100,4 +100,4 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Acknowledgments
 
-My most sincere thanks to [@jonasschmedtman](https://twitter.com/jonasschmedtman) for the inspiring course, and of course to the wonderful people at[Frontend Mentor](https://www.frontendmentor.io/)
+My most sincere thanks to [@jonasschmedtman](https://twitter.com/jonasschmedtman) for the inspiring course, and of course to the wonderful people at [Frontend Mentor](https://www.frontendmentor.io/)

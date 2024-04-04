@@ -7,9 +7,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
@@ -17,87 +15,41 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
-### Screenshot
-
-![](./screenshot.jpg)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it.
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+A look into each and every task I attempted to solve, with my own code. I separated each solution into a different folder for convinience.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- [Github repository with my solutions](https://github.com/Jirobow/git-mdn-web-docs-tasks)
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+- VS Code (enhanced with Prettier and Path Intellisense extensions)
+- Nodejs (v18.17.1) + live-server node app.
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-
-```js
-const proudOfThisFunc = () => {
-  console.log("🎉");
-};
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+Recaped HTML fundamentals and CSS's basics, mostly gaining confidence.
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+My main goal here is to have all of this be second nature moving forward, gaining familiarity with not only HTML, but CSS and even git too, focusing on my future carrer as a fullstack dev.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+I'm not comfartable with designing from scratch (an empty styles.css file, for example) yet, but by repeating these and other tasks/challenges this could and will be accomplished.
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [Git Tutorial for Beginners: Learn Git in 1 Hour](https://youtu.be/8JJ101D3knE) - Gave me a solid understanding and much more confidence with Git.
+- [ChatGPT](https://chat.openai.com) - Helped me catch some syntax errors (using .h1 in the stylesheet instead of just h1, for example).
+- [Frontend Mentor](https://www.frontendmentor.io/) - Provided an easy-to-understand step-by-step path to learning front-end dev, plus this README template.
 
 ## Author
 
 - [Hugo Victor](https://www.linkedin.com/in/hugo-v-silva/)
 - Frontend Mentor - [@jirobow](https://www.frontendmentor.io/profile/Jirobow)
-- Twitter - @Jirodev(https://twitter.com/JirobowDev)
+- Twitter - [@Jirodev](https://twitter.com/JirobowDev)
 
 ## Acknowledgments
 
-My most sincere thanks to [@jonasschmedtman](https://twitter.com/jonasschmedtman) for the inspiring course, and of course to the wonderful people at [Frontend Mentor](https://www.frontendmentor.io/)
+My most sincere thanks to [@jonasschmedtman](https://twitter.com/jonasschmedtman) for the inspiring course, and of course to the wonderful people at [Frontend Mentor](https://www.frontendmentor.io/) and [Learn web development - mdn web docs](https://developer.mozilla.org/en-US/docs/Learn)

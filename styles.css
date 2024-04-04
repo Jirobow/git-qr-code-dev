@@ -2,12 +2,31 @@
 
 * {
   font-family: "Outfit", sans-serif;
-  margin: 10;
-  padding: 10;
   box-sizing: inherit;
+  background-color: hsl(212, 45%, 89%);
 }
 
-qr-image {
-  margin: 10;
-  padding: 10;
+#div-background {
+  background-color: white;
+  height: auto;
+  width: 288px;
+  box-sizing: content-box;
+}
+
+#qr-image {
+  position: inherit;
+  width: 288px;
+  height: 288px;
+}
+
+#top-text {
+  color: #1f314f;
+  position: inherit;
+  top: 20px;
+  background-color: inherit;
+}
+
+#bottom-text {
+  color: #7d889e;
+  background-color: inherit;
 }

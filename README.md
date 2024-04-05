@@ -42,11 +42,13 @@ Other planned re-commits for the future:
 
 ### Screenshots:
 
-1. Content box highlighted, missing a bit of the right side of the image
-   ![Content box highlighted](./content-box-selected.jpeg?raw=true)
+-Content box highlighted, missing a bit of the right side of the image
 
-2. Padding overlapping with right-most side of the image.
-   ![Padding highlighted: overlapping with content box](./padding-overlap.jpeg?raw=true)
+![Content box highlighted](./content-box-selected.jpeg?raw=true)
+
+-Padding overlapping with right-most side of the image.
+
+![Padding highlighted: overlapping with content box](./padding-overlap.jpeg?raw=true)
 
 ### Useful resources
 

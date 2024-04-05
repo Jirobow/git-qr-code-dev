@@ -42,8 +42,8 @@ Other planned re-commits for the future:
 
 ### Screenshots:
 
-[Content box highlighted](image=content-box-selected.jpeg)
-[Padding highlighted: overlapping with content box](image=padding-overlap.jpeg)
+![Content box highlighted](./content-box-selected.jpeg?raw=true)
+![Padding highlighted: overlapping with content box](./padding-overlap.jpeg?raw=true)
 
 ### Useful resources
 

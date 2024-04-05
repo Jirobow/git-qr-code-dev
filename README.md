@@ -41,9 +41,9 @@ I'm not comfortable with designing from scratch (an empty styles.css file, for e
 ### Useful resources
 
 - [Git Tutorial for Beginners: Learn Git in 1 Hour](https://youtu.be/8JJ101D3knE) - Gave me a solid understanding and much more confidence with Git.
-- [ChatGPT](https://chat.openai.com) - Helped me catch some syntax errors (using .h1 in the stylesheet instead of just h1, for example).
 - [Frontend Mentor](https://www.frontendmentor.io/) - Provided an easy-to-understand step-by-step path to learning front-end dev, plus this README template.
 - [W3schools CSS Tutorial](https://www.w3schools.com/css/default.asp) - Easy to pick-up tutorial with most of the commonly used properties, plus exercises. Concise and full of interactivity, this was a life-saver.
+- [Flexbox Froggy](https://flexboxfroggy.com) - Nothing like a little game to practice, and this one teaches display:flex in CSS like any other.
 
 ## Author
 

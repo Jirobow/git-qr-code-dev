@@ -53,4 +53,4 @@ I'm not comfortable with designing from scratch (an empty styles.css file, for e
 
 ## Acknowledgments
 
-My most sincere thanks to [@jonasschmedtman](https://twitter.com/jonasschmedtman) for the inspiring course, and of course to the wonderful people at [Frontend Mentor](https://www.frontendmentor.io/) and [Learn web development - mdn web docs](https://developer.mozilla.org/en-US/docs/Learn)
+My most sincere thanks to [@jonasschmedtman](https://twitter.com/jonasschmedtman) for the inspiring course, and of course to the wonderful people at [Frontend Mentor](https://www.frontendmentor.io/) and [Learn web development - mdn web docs](https://developer.mozilla.org/en-US/docs/Learn) .

@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-A look into each and every task I attempted to solve, with my own code. I separated each solution into a different folder for convinience.
+This is my first "full" draft for the QR code component challenge. Though incomplete, a lot of progress was made in terms of my learning.
 
 ### Links
 
@@ -30,13 +30,20 @@ A look into each and every task I attempted to solve, with my own code. I separa
 
 ### What I learned
 
-Recaped HTML fundamentals and CSS's basics, mostly gaining confidence.
+How to handle moving-around multiple (nested) HTML elements using a CSS stylesheet, specially with regards to using css display: flex properties.
 
 ### Continued development
 
-My main goal here is to have all of this be second nature moving forward, gaining familiarity with not only HTML, but CSS and even git too, focusing on my future carrer as a fullstack dev.
+My main goal moving forward is to actually find out WHY my div box is slightly miss-aligned with its background, with some overlap of a couple of pixels (this is easy to see when checking the box model in inspect mode - see screenshot for more details). I do plan to come back to this project later on to have this issue fixed.
 
-I'm not comfortable with designing from scratch (an empty styles.css file, for example) yet, but by repeating these and other tasks/challenges this could and will be accomplished.
+Other planned re-commits for the future:
+
+- Making sure WCAG requirements are met (I haven't tested them yet).
+
+### Screenshots:
+
+[Content box highlighted](image=content-box-selected.jpeg)
+[Padding highlighted: overlapping with content box](image=padding-overlap.jpeg)
 
 ### Useful resources
 
